@@ -39,29 +39,16 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 * Open-source contributions
 * Systems programming projects
 
-## 🛠 Languages
+## 🛠 Languages & Tools
 
-* Python
-* Java
-* JavaScript
-* TypeScript
-* C++
-* HTML/CSS
-* SQL
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,html,css" /></a>
+</p>
 
-## ⚡ Frameworks & Technologies
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tensorflow,pytorch,pandas,postgres,docker,git,linux,vscode" /></a>
+</p>
 
-* React
-* Node.js
-* Express.js
-* FastAPI
-* TensorFlow
-* PyTorch
-* Pandas
-* PostgreSQL
-* Git
-* Docker
-* Linux
 
 
 
