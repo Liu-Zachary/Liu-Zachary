@@ -39,14 +39,40 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 * Open-source contributions
 * Systems programming projects
 
-## 🛠 Languages & Tools
+## 💻 Programming Languages
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,html,css" /></a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css" />
 </p>
 
+## 🌐 Web Development
+
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tensorflow,pytorch,pandas,postgres,docker,git,linux,vscode" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
+</p>
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+## 📊 Data Science & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+## 🛠 Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea,androidstudio" />
+</p>
+
+## ☁️ Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
 </p>
 
 
