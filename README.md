@@ -7,10 +7,7 @@
   <a href="mailto:zachary.liu@drexel.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
-  <a href="https://github.com/liu-zachary">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
-  </a>
-</p>
+
 
 ## About Me
 
@@ -66,26 +63,7 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 * Docker
 * Linux
 
-## 📌 Goals for 2026
 
-* Build 5+ production-quality projects
-* Contribute to open source
-* Master data structures and algorithms
-* Learn system design fundamentals
-* Gain experience in software engineering and AI research
-
-## 🏆 Achievements
-
-* AP Scholar with Distinction
-* President's Volunteer Service Award (Gold)
-* SAT: 1480 (790 Math)
-* University of Pennsylvania Research Program Participant
-
-## 📫 Connect With Me
-
-* LinkedIn: linkedin.com/in/zachary-liu-73711a330
-* Email: [zachary.liu@drexel.edu](mailto:zachary.liu@drexel.edu)
-* GitHub: github.com/liu-zachary
 
 ## 📊 GitHub Statistics
 
