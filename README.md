@@ -95,8 +95,6 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 
 ## 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/liu-zachary/liu-zachary/output/github-contribution-grid-snake.svg)
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)"
