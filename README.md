@@ -1,6 +1,9 @@
 <div align="center">
-  # 👋 Hi, my name is Zachary Liu
+
+<h1>👋 Hi, my name is Zachary Liu</h1>
+
 </div>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zachary-liu-73711a330/">
