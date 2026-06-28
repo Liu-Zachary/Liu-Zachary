@@ -21,7 +21,7 @@
 
 I'm an incoming Computer Science student at Drexel University interested in software engineering, artificial intelligence, machine learning, and building scalable systems.
 
-* 💻 Self-taught software developer and aspiring software engineer
+* 💻 Self-taught software developer 
 * 🤖 Interested in AI, machine learning, backend systems, and full-stack development
 * 🚀 Building projects to develop strong software engineering fundamentals
 * 📚 Currently learning data structures, algorithms, system design, and modern web technologies
