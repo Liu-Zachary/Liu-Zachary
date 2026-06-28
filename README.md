@@ -1,16 +1,16 @@
-<div align="center">
+# 👋 Hi, my name is Zachary Liu
 
-👋 Hi, my name is Zachary Liu
-Computer Science Student @ Drexel University
-Software Engineering • AI/ML • Full-Stack Development
+<p align="left">
+  <a href="https://www.linkedin.com/in/zachary-liu-73711a330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:zachary.liu@drexel.edu">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
 
-<p> <a href="https://www.linkedin.com/in/zachary-liu-73711a330/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /> </a> <a href="mailto:zachary.liu@drexel.edu"> <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /> </a> <a href="https://github.com/liu-zachary"> <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" /> </a> </p>
-
-<p> <img src="https://komarev.com/ghpvc/?username=liu-zachary&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
-
-<p> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=liu-zachary&show_icons=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-zachary&layout=compact" /> </p>
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=liu-zachary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 
 ## About Me
