@@ -87,14 +87,16 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 
 
 ## 📊 GitHub Statistics
-
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liu-zachary\&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-zachary\&layout=compact)
+</div>
 
-## 🐍 Contribution Activity
 
 ---
+## 🐍 Contribution Activity
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/liu-zachary/liu-zachary/output/github-snake-dark.svg" />
@@ -103,3 +105,4 @@ I'm an incoming Computer Science student at Drexel University interested in soft
   <img alt="github contribution snake"
        src="https://raw.githubusercontent.com/liu-zachary/liu-zachary/output/github-snake.svg" />
 </picture>
+</div>
