@@ -34,21 +34,19 @@ I'm an incoming Computer Science student at Drexel University interested in soft
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql,latex" />
 </p>
 
-## 🚀 Frameworks & Libraries
+## ⚛️ Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow" />
 </p>
 
-**Also familiar with:** Pandas • NumPy • Matplotlib • Scikit-learn
+**Also familiar with:** Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
-
-
 
 ## 🐍 Contribution Activity
 <div align="center">
