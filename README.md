@@ -26,52 +26,17 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 * 🤖 Interested in AI, machine learning, backend systems, and full-stack development
 
 
-## 💻 Programming Languages
+## 💻 Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,nodejs,express,fastapi,tailwind,tensorflow,pytorch,postgres,mysql" />
 </p>
 
-## 🌐 Web Development
+## 🛠 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea,androidstudio,aws,gcp,vercel" />
 </p>
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-## 📊 Data Science & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-## 🛠 Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea,androidstudio" />
-</p>
-
-## ☁️ Cloud & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
-</p>
-
-
-
-
-## 📊 GitHub Statistics
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liu-zachary\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liu-zachary\&layout=compact)
-</div>
 
 
 ## 🐍 Contribution Activity
