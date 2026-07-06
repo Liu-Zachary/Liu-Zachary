@@ -27,38 +27,20 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 * Currently learning more languages and tools focused on machine learning. 
 
 
-## 💻 Languages & Frameworks
 
-## 💻 Languages & Frameworks
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" />
-  </a>
-
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" />
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" />
-  </a>
-
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="48" />
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" width="48" />
-  </a>
-</p>
-
-## 🛠 Tools
+## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea,androidstudio,aws,gcp,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql,latex" />
 </p>
 
+## 🛠 Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow" />
+</p>
+
+**Libraries:** Pandas • NumPy • Scikit-learn • Matplotlib
 
 ## 🐍 Contribution Activity
 <div align="center">
