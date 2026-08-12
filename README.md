@@ -10,9 +10,7 @@
   <a href="https://www.linkedin.com/in/zachary-liu-73711a330/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
-  <a href="mailto:zachary.liu@drexel.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
+
 
   <img src="https://komarev.com/ghpvc/?username=liu-zachary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
