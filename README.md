@@ -22,7 +22,8 @@ I'm an incoming Computer Science student at Drexel University interested in soft
 
 * Self-taught software developer 
 * Interested in AI, machine learning, backend systems, and full-stack development
-* Currently learning more languages and tools focused on machine learning. 
+* Currently learning more languages and tools focused on machine learning.
+* Also I do game development on the side coding with Lua on Roblox 
 
 
 
